@@ -38,9 +38,4 @@ helloa
 #comentarios 6:20
 
 #estos son mis comentartios Buscando la noche
-<<<<<<< HEAD
 
-
-=======
-asdsdasdasdasasdsadasd
->>>>>>> 37b8a2978ea10747da76449c33bd382662a54004
